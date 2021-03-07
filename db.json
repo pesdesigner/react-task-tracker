@@ -11,18 +11,6 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30am",
       "reminder": false
-    },
-    {
-      "text": "Teste 2",
-      "day": "18 de Março 17h00",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Programar",
-      "day": "10 outubro",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
