@@ -17,9 +17,8 @@
 
 - Java Spring Boot Api
 
-![](C:\Users\paulo\OneDrive\Área de Trabalho\task-tracker.JPG)
+![panel](/react-task-tracker/main/public/task-tracker-about.JPG)
 
-![](C:\Users\paulo\OneDrive\Área de Trabalho\task-tracker-about.JPG)
+![about](/react-task-tracker/main/public/task-tracker.JPG)
 
-[^Gráfico e Web - Programação e Design]: 
 
