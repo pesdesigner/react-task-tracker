@@ -17,8 +17,8 @@
 
 - Java Spring Boot Api
 
-![panel](/react-task-tracker/main/public/task-tracker-about.JPG)
+![](public/task-tracker.JPG)
 
-![about](/react-task-tracker/main/public/task-tracker.JPG)
+![](public/task-tracker-about.JPG)
 
 
